@@ -1,6 +1,6 @@
-# AbacusCI Book - Full Stack Web Development
+# Divengine Book Stack Web Development
 
-Welcome to the official study book for **Full Stack Web Development** at Abacus Computing Institute.
+Welcome to the official study book for **Full Stack Web Development** .
 
 > 📖 The content of this book is hosted in the [Wiki of this repository](../../wiki). This README provides an overview of what you'll find there.
 
